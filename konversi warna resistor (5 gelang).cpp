@@ -1,4 +1,3 @@
-//Rahmattullah Al Hakim 5302420020
 //mengkonversi masukan warna resistor 5 gelang menjadi nilai berupa angka
 #include <iostream>
 using namespace std;
